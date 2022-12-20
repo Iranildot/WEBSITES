@@ -1,0 +1,100 @@
+body{
+    margin: -16px 0px 0px 0px;
+}
+
+nav#menu h1 {
+    display: none;
+    margin: 0px;
+}
+
+nav#menu img {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+}
+
+nav#menu ul {
+    background-color: rgb(83, 169, 255);
+    box-shadow: 1px 2px 0.5px rgb(123, 123, 123);
+    list-style: none;
+    padding: 0px 30px;
+    position: relative;
+    text-align: right;
+    text-transform: uppercase;
+}
+
+nav#menu li {
+    cursor: pointer;
+    display: inline-block;
+    padding: 25px 5px;
+    transition: 0.8s;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+nav#menu li:hover {
+    background-color: rgb(206, 206, 206);
+    color: black;
+}
+
+h1 {
+    background-color: rgb(236, 235, 235);
+    text-align: center;
+    margin: -16px;
+    padding: 60px 0px;
+}
+
+div#conteudo {
+    text-align: center;
+}
+
+div#paragrafos {
+    text-align: justify;
+    padding: 20px 40px;
+}
+
+div#conteudo p {
+    text-indent: 50pt;
+    font-size: large;
+}
+
+div.imagem {
+    position: relative;
+    text-align: center;
+    padding: 20px 0px; 
+}
+
+/*COMPRAR*/
+button {
+    padding: 10px 20px;
+    background-color: rgb(83, 169, 255);
+    color: white;
+    border: none;
+    box-shadow: 1px 1px 1px rgb(123, 123, 123);
+}
+
+button:hover {
+    background-color: rgb(165, 210, 255);
+    cursor: pointer;
+}
+
+/*CATÁLOGO*/
+
+figure {
+    display: inline-flexbox;
+    margin-top: 50px;
+    text-align: center;
+    font-weight: bolder;
+    font-size: 20pt;
+}
+
+figure img {
+    margin: 40px 30px 30px 0px;
+}
+
+figure p {
+    border-bottom: 3px solid black;
+}
