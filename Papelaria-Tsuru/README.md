@@ -1,6 +1,6 @@
-# Papelaria Tsuru
+# PAPELARIA TSURU
 
-This site was created as a complementary activity to a course at Ufersa (Universidade Federal Rural do Semi-Árido).
+This site was created as a complementary activity to a course at **[Ufersa (Universidade Federal Rural do Semi-Árido)](https://ufersa.edu.br/)**.
 
 # HOW DOES IT LOOK LIKE?
 
